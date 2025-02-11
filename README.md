@@ -1,4 +1,4 @@
-# Automated-PnL-Extraction-and-Visualization-Using-OCR
+# Automated-PnL-Extraction-and-Visualization-Using-OCR-and-Redash
 
 This project provides an automated system for extracting financial Profit and Loss (PnL) values from trading account screenshots using Optical Character Recognition (OCR). The extracted data is stored in a MySQL database and visualized through a React-based web interface. The system supports automated image sorting, real-time data processing, and graphical analysis of PnL trends.
 
