@@ -64,3 +64,5 @@ Update the following paths and credentials in the code:
 1. Place trading account screenshots in the designated folder.
 2. The system automatically processes the images, extracts PnL values, and stores them in the database.
 3. View and analyze the PnL data through the React dashboard.
+
+### Sample Screenshots
