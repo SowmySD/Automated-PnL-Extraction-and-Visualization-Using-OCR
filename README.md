@@ -65,4 +65,14 @@ Update the following paths and credentials in the code:
 2. The system automatically processes the images, extracts PnL values, and stores them in the database.
 3. View and analyze the PnL data through the React dashboard.
 
-   
+## Sample Output Screenshots
+
+1. Folder
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/8bb0ff59cbcf1947b87c18920eaa7052040d705e/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Folder.jpg)
+
+2. Data Extraction
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/8bb0ff59cbcf1947b87c18920eaa7052040d705e/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Data%20Extraction.jpg)
+
+3. Database Storage
