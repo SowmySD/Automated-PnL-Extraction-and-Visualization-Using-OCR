@@ -76,3 +76,19 @@ Update the following paths and credentials in the code:
 ![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/8bb0ff59cbcf1947b87c18920eaa7052040d705e/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Data%20Extraction.jpg)
 
 3. Database Storage
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/0e43574e300148763a3cc350316d57f32bbd87a0/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Database%20Storage.jpg)
+
+4. Redash
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/0e43574e300148763a3cc350316d57f32bbd87a0/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Redash.jpg)
+
+5. Home Page
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/0e43574e300148763a3cc350316d57f32bbd87a0/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Home%20page.jpg)
+
+6. Visualization
+
+![Alt Text](https://github.com/SowmySD/Automated-PnL-Extraction-and-Visualization-Using-OCR/blob/0e43574e300148763a3cc350316d57f32bbd87a0/Automated%20Financial%20Data%20Extraction%20and%20Visualization-Using%20OCR%20and%20Redash/Output%20Screenshots/Visualization.jpg)
+
+
